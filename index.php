@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="homework.css">
+</head>
+<body>
+	<div class="container">
+		<form action="homework.php" method="POST">
+			<input type="text" placeholder="Your name" name="nikname">
+			<input type="email"placeholder="Email address" name="mail">
+			<input type="text" placeholder="Subject" name="subject">
+			<input type="comment" name="commentarii">
+			<input type="submit" placeholder="Submit NOW">
+		</form>
+	</div>
+	
+</body>
+</html>
